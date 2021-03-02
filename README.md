@@ -9,6 +9,6 @@ How To Run :
 <li>curl http://localhost:49160
 </ul>
 
-Testing jenkins hook trigger
+Test trigger jenkins webhook
 
 <img src=/assets/1.png>
