@@ -13,7 +13,7 @@ const app = express();
 app.get('/', (req, res) => {
     var dateserver = new Date();
 //    res.send('ENV_NAME : '${process.env.NODE_ENV} 'DATE TIME : '${dateserver});
-    res.send(`ENV_NAME : ${process.env.NODE_ENV}, SERVER_TIME : ${dateserver.toISOString()} adding new line code`);
+    res.send(`ENV_NAME : ${process.env.NODE_ENV}, New line SERVER_TIME : ${dateserver.toISOString()}`);
 });
 
 // adding new lines of code
