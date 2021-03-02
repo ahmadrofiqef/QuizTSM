@@ -9,6 +9,6 @@ How To Run :
 <li>curl http://localhost:49160
 </ul>
 
-CI/CD Jenkins
+Test Jenkins
 
 <img src=/assets/1.png>
