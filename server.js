@@ -16,8 +16,5 @@ app.get('/', (req, res) => {
     res.send(`ENV_NAME : ${process.env.NODE_ENV}, SERVER_TIME : ${dateserver.toISOString()}`);
 });
 
-//adding new line to code
-//adding new line
-
 app.listen(PORT, HOST);
 console.log(`Running on http://${HOST}:${PORT}`);
