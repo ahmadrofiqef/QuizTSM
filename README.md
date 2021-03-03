@@ -9,9 +9,6 @@ How To Run :
 <li>curl http://localhost:49160
 </ul>
 
-
-Change Test CI/CD Jenkins
-
-add new lines 12345678
+Hello Jenkins
 
 <img src=/assets/1.png>
